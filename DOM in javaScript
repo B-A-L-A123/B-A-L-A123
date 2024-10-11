@@ -1,0 +1,9 @@
+<p id="i"> 
+    Hellow
+</p>
+
+<script> //DOM Manipulation
+    var para = document.getElementById("i") 
+    console.log (i.textContent)
+    i.textContent="bye bala"
+</script>
